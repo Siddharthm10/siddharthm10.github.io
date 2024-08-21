@@ -1,10 +1,3 @@
-# trekhleb.dev
-
-[![CI](https://github.com/trekhleb/trekhleb.github.io/workflows/CI/badge.svg)](https://github.com/trekhleb/trekhleb.github.io/actions?query=workflow%3ACI+branch%3Amaster)
-
-My personal [website](https://trekhleb.dev) with a list of my projects that help people learn and blog posts about life, web-development, and machine-learning.
-
-![trekhleb.dev](https://trekhleb.dev/static-assets/images/site-meta-image-01.png)
 
 ## Development
 
